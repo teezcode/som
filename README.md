@@ -1,0 +1,2 @@
+# som
+my first git
